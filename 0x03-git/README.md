@@ -1,1 +1,1 @@
-My first readme for git
+My first readme for 0x03-git project
